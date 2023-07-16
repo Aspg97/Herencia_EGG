@@ -1,4 +1,4 @@
-package mao_01_ejercicioAnimal;
+package mao_01_Animal;
 
 public class Perro extends Animal {
 	@Override

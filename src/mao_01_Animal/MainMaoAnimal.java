@@ -1,8 +1,8 @@
-package mao_01_ejercicioAnimal;
+package mao_01_Animal;
 
 import java.util.ArrayList;
 
-public class MainEjercicioAnimal {
+public class MainMaoAnimal {
 	public static void main (String [] args) {
 		Animal a = new Animal();
 		Animal b = new Perro();

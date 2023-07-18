@@ -13,7 +13,7 @@ precio de todos los Electrodomésticos. Por ejemplo, si tenemos una lavadora con
 electrodomésticos, 2000 para lavadora y 5000 para televisor.
 */
 
-public class Main_ej_03 {
+public class Main_03 {
 
 	public static void main(String[] args) {
 		ArrayList<Electrodomestico> electrodomesticos = new ArrayList<>();

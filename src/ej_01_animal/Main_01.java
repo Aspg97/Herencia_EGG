@@ -1,6 +1,6 @@
 package ej_01_animal;
 
-public class MainEjercicioAnimal {
+public class Main_01 {
 	public static void main (String [] args) {
 		Animal perro1 = new Perro("Stich","Carnivoro","Doberman",15);
 		Animal perro2 = new Perro("Teddy","Croquetas","Chihuahua",10);

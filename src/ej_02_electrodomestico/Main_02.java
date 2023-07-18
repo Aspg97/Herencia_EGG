@@ -6,7 +6,7 @@ Vamos a crear una Lavadora y un Televisor y llamar a los métodos necesarios par
 el precio final de los dos electrodomésticos.
 */
 
-public class Main_ej_02 {
+public class Main_02 {
 
 	public static void main(String[] args) {
 		ServiceLavadora tLa = new ServiceLavadora();
